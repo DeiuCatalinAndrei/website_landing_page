@@ -1,0 +1,183 @@
+body{
+    font-family: Verdana;
+}
+.buttons-right-navbar a{
+    color: white;
+    text-decoration: none;
+}
+.buttons-right-navbar .singup{
+    background-color: rgba(255, 255, 255, 0.185);
+}
+.container-navbar{
+    padding-left: 8%;
+    padding-right: 8%;
+}
+.first-section{
+    background-color: #F4F6F9;
+    height: 80vh;
+    border-radius: 0px 0px 900px 300px;
+}
+.imgae-top-right img{
+    position: absolute;
+    right: 0;
+    height: 85%;
+    width:auto;
+}
+.image-text-first{
+    padding-left:5vw;
+    padding-top: 15vh;
+}
+.image-text-first img{
+    width: 70%;
+}
+.first-section-left .text {
+    line-height: 1.2vw;
+    padding-top: 5vh;
+    padding-left:5vw;
+    color: #595959;
+    font-size: 1.5vw;
+}
+.first-section-left .button-div{
+    padding-left:5vw;
+}
+.first-section-left{
+    border-radius: 15px 50px 30px 5px;
+}
+.section-two{
+    padding-top: 8vw;
+}
+.section-two .logos{
+    width: 80vw;
+}
+.section-two .logos img{
+    width: 10vw;
+    height: auto;
+}
+.section-three{
+    padding-top: 8vw;
+    padding-bottom: 10vw;
+}
+.section-three .text .title, .section-four .right .text .title, .section-five .left .text .title{
+    color: #606060;
+    opacity: 0.5;
+    font-size: 0.9vw;
+}
+
+.section-three .text-1, .section-four .right .text .text-1, .section-five .left .text .text-1{
+    color: #272727;
+    font-size: 3vw;
+}
+.section-three .text-2, .section-four .right .text .text-2, .section-five .left .text .text-2{
+    color: #958a8a8e;
+    font-size: 1vw;
+    line-height: .9vw;
+}
+.section-three .btn ,.section-four .right .text .btn, .section-five .left .text .btn{
+    background-color: #0033FF;
+    color: white;
+}
+.section-four{
+    padding-top: 8vh;
+}
+.section-three .img img{
+    width: 45vw;
+    height: auto;
+}
+.section-four .left img{
+    width: 30vw;
+    height: auto;
+}
+.section-five {
+    padding-top: 8vw;
+}
+.section-five .right img{
+    width: 38vw;
+    height: auto;
+}
+/* section-six*/
+.section-six{
+    position: absolute;
+    bottom: 0;
+}
+.section-six-title{
+    color: white;
+    font-size: 3vw;
+    font-weight: bold;
+}
+.section-six .left .text .p{
+    font-size: 1vw;
+    color: #958A8A;
+}
+.section-six button{
+    background-color: #0033FF;
+    color: white;
+
+}
+.section-six{
+    padding-left: 8vw;
+    padding-right: 8vw;
+    padding-top: 5vw;
+    padding-bottom: 20vw;
+    background-color: black;
+    padding-bottom: 20vw;
+    position: relative;
+    margin-top: 28vh;
+}
+.section-six .section-six-right img{
+    position: absolute;
+    right: 0;
+    top: -10vw;
+    width: 50vw;
+    height: auto;
+}
+.testiomnials-section-six {
+    height: auto;
+    width: 38vw;
+    position: absolute;
+    top: 9vw;
+    right: 3vw;
+}
+/* Footer*/
+.footer{
+    position: relative;
+}
+.footer .footer-section{
+    margin-top: 18vw;
+    margin-bottom: 2vw;
+    padding-left: 4vw;
+    padding-right: 4vw;
+}
+.footer div div .text{
+    color: #606060;
+}
+.footer div .right div .title{
+    color: #0C0C0C;
+    font-weight: bold;
+    font-size: 1vw;
+}
+.footer div .right div p{
+    color: #606060;
+    font-size: .8vw;
+}
+.footer .footer-section .right .logos img{
+    width: 1vw;
+    height: 1vw;
+}
+/* ---*/
+.footer-gradient{
+    position: absolute;
+    width: 80%;
+    left: 10%;
+    top: -22vw;
+    border-radius: 1vw;
+    background: rgb(166,89,255);
+    background: linear-gradient(90deg, rgba(166,89,255,1) 0%, rgba(113,120,255,1) 35%, rgba(33,72,255,1) 65%, rgba(255,53,23,1) 100%);
+}
+.footer-gradient .title{
+    color: white;
+    font-size: 2vw;
+    width: 40%;
+    text-align: center;
+    font-weight: bold;
+
+}
