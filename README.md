@@ -1,6 +1,6 @@
 # Website Landing Page
 
-A website landing page developed with html css and bootstrap for music business
+A website landing page developed with HTML, CSS and BootStrap for music business
 
 ![1](https://user-images.githubusercontent.com/118452782/217887739-73dbb9e5-509d-4fa5-8e2f-0c0319a0b70f.png)
 ![2](https://user-images.githubusercontent.com/118452782/217887821-7ed047ee-fd38-4934-9124-40cdd1f6883b.png)
